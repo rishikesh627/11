@@ -1,18 +1,15 @@
 {
-  "name": "messenger-24/7-bot",
+  "name": "render-node-server",
   "version": "1.0.0",
-  "description": "24/7 Persistent Messenger Bot developed by Rishi❤️annu",
+  "description": "Node.js server",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {
-    "express": "latest",
-    "messagix-js": "latest",
-    "pino-pretty": "latest",
-    "ws": "latest"
-  },
   "engines": {
-    "node": ">=18.0.0"
+    "node": "24.x"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
