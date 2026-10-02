@@ -1,18 +1,11 @@
 {
   "name": "rishu-messenger-bot",
   "version": "1.0.0",
-  "description": "24/7 Rishi Messenger Bot with Cookie Rotation & Auto-Reconnect",
+  "description": "24/7 Rishi Messenger Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [
-    "messenger",
-    "bot",
-    "messagix",
-    "24-7",
-    "rishi"
-  ],
   "author": "THE RISHI BABY",
   "license": "MIT",
   "dependencies": {
